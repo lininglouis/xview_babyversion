@@ -6,16 +6,16 @@
 1) download the geojson files, and baseline folder from xview organization. download the train, val, train_label data.
 Below is the folder structure I used.
 
-./xview
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./xview
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./train_images'   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./val_images'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./train_images'   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./val_images'
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./train_labels/xView_train.geojson'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./train_labels/xView_train.geojson'
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./baseline/xview_class_labels.txt'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./baseline/xview_class_labels.txt'
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./scripts/*'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'./scripts/*'
 
 
 
